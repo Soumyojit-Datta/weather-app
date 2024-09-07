@@ -25,20 +25,20 @@ An open-source Python weather app that fetches and displays real-time weather da
 
     Navigate to the project directory and install the required dependencies:
 
-   For Windows:
+    For Windows:
    
     ```bash
     py -m pip install requests
     ```
 	
-	For Linux/macOS:
+    For Linux/macOS:
 	
     ```bash
     pip3 install requests
     ```
 	
 
-Make sure that your **OpenWeatherAPI key ** is present inside of `config.json` in the `api_key` entry instead of `your_api_key_here`
+Make sure that your **OpenWeatherAPI key** is present inside of `config.json` in the `api_key` entry instead of `your_api_key_here`
 
 ## Usage
 
